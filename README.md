@@ -150,6 +150,6 @@ jupyter notebook diabetes_prediction.ipynb
 
 ---
 
-## 📄 License
+##  License
 
 This project is for academic purposes — Nagarjuna College of Engineering and Technology, 2024–25.

@@ -1,4 +1,4 @@
-# 🩺 Diabetes Prediction Using Machine Learning Algorithms and Ontology
+#  Diabetes Prediction Using Machine Learning Algorithms and Ontology
 
 > A comparative study of 6 ML classification algorithms combined with an ontology-based approach for early diabetes prediction.
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 📌 Overview
+##  Overview
 
 Diabetes mellitus is a chronic metabolic disorder affecting millions worldwide. Early detection is critical to prevent complications like cardiovascular disease, kidney failure, and neuropathy.
 
@@ -18,7 +18,7 @@ This project presents a **comprehensive comparative analysis** of machine learni
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Compare 6 ML classification algorithms on the PIDD dataset
 - Build an ontology-based classifier using Protégé + SWRL rules
@@ -27,7 +27,7 @@ This project presents a **comprehensive comparative analysis** of machine learni
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 **Pima Indians Diabetes Database (PIDD)**
 - Source: [UCI Machine Learning Repository](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
@@ -48,7 +48,7 @@ This project presents a **comprehensive comparative analysis** of machine learni
 
 ---
 
-## 🤖 Algorithms Used
+##  Algorithms Used
 
 | Algorithm | Tool |
 |---|---|
@@ -62,7 +62,7 @@ This project presents a **comprehensive comparative analysis** of machine learni
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - **Python** — Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 - **Weka** — ML algorithm implementation and evaluation
@@ -73,7 +73,7 @@ This project presents a **comprehensive comparative analysis** of machine learni
 
 ---
 
-## 📈 Results
+##  Results
 
 ### 10-Fold Cross-Validation
 
@@ -87,11 +87,11 @@ This project presents a **comprehensive comparative analysis** of machine learni
 | Decision Tree | 85% | 0.84 | 0.85 | 0.84 |
 | Ontology (SWRL) | 83% | 0.82 | 0.83 | 0.82 |
 
-> ✅ **Best performers: SVM and ANN with 94% accuracy**
+>  **Best performers: SVM and ANN with 94% accuracy**
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 diabetes-prediction/
@@ -107,7 +107,7 @@ diabetes-prediction/
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### 1. Clone the repository
 ```bash
@@ -132,7 +132,7 @@ jupyter notebook diabetes_prediction.ipynb
 
 ---
 
-## 📋 Methodology
+##  Methodology
 
 1. **Data Collection** — Pima Indians Diabetes Database (768 instances, 8 features)
 2. **Data Preprocessing** — Handle missing values, normalize features, convert to ARFF
@@ -142,7 +142,7 @@ jupyter notebook diabetes_prediction.ipynb
 
 ---
 
-## 📚 References
+##  References
 
 1. El Massari et al., "Diabetes Prediction Using ML Algorithms and Ontology," Journal of ICT Standardization, 2022
 2. Khanam & Foo, "A comparison of ML algorithms for diabetes prediction," ICT Express, 2021
